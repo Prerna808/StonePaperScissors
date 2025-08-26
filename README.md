@@ -1,2 +1,2 @@
 # StonePaperScissors
-javascript project on Stonepaperscissors
+Javascript Project on StonePaperScissors
